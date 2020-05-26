@@ -4,3 +4,6 @@
 
 #### I will predict total sales for every product and store in the next month. I used advanced techniues in feature engineering and machine learning in this competition.
 #### [See the competition on kaggle](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
+
+#### [See my notebook on kaggle](https://www.kaggle.com/mohieeldin/complete-guide-using-time-series-and-ml-techniques)
+
